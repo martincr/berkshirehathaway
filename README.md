@@ -1,6 +1,6 @@
 # berkshirehathaway
 
-An exercise to clean up legacy code.
+An exercise to clean up the legacy code of a famous website homepage.
 
 ## Initial observed errors/issues.
 
@@ -20,6 +20,7 @@ An exercise to clean up legacy code.
 - Incorrectly nested closing font tags.
 - Break tags.
 - Spaces between tags.
+- Lots of bold tags.
 
 ## Steps taken to update.
 
@@ -31,3 +32,17 @@ An exercise to clean up legacy code.
 6. Remove table and table rows and replace with divs.
 7. From the bottom up, remove all font tags.
 8. Prettify code.
+
+## Converting tables to divs.
+
+1. Change address.
+2. Add a header and footer.
+3. Add a main section.
+4. Add header tags.
+5. Replace legacy break tags.
+6. Replace bold tags.
+7. Address font sizings.
+
+## References.
+
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address
