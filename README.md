@@ -2,6 +2,10 @@
 
 An exercise to clean up the legacy code of a famous website homepage.
 
+## Further reading.
+
+https://news.ycombinator.com/item?id=22867375
+
 ## Initial observed errors/issues.
 
 - Google Tag Manager/Google Analytics tag is in the incorrect place.
