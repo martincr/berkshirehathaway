@@ -43,6 +43,12 @@ An exercise to clean up the legacy code of a famous website homepage.
 6. Replace bold tags.
 7. Address font sizings.
 
+## TO DO
+
+- Fix table.
+- Fix address style.
+- Fix spacings.
+
 ## References.
 
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address
